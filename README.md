@@ -17,6 +17,7 @@ Small Browser for Fun
 * CCache
 * GTK 3.0
 * GTKMM
+* Sqlite3
 * Make
 
 ### Build:
